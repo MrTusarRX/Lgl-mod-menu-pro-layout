@@ -10,7 +10,7 @@
 ***
 
 ### MOD MENU IMAGE
-![LGLGUI](https://user-images.githubusercontent.com/80063088/126999612-d4faae93-62e1-4023-8a3f-b0d2ff36e1b9.PNG)
+![LGLGUI](https://mrtusarrx1.000webhostapp.com/IMG_20230713_204335.jpg)
 ***
 
 ### CUSTOM SLIDER
