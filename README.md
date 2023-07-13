@@ -48,7 +48,7 @@ I used GradientDrawable & the shader of the name to customize it.
 ***
 # Contact/Social
 
-* [Facebook]([https://www.facebook.com/profile.php?id=100042359632677&mibextid=ZbWKwL])https://www.facebook.com/profile.php?id=100042359632677&mibextid=ZbWKwL)
+* [Facebook](https://www.facebook.com/profile.php?id=100042359632677&mibextid=ZbWKwL)
 * [YouTube](https://youtube.com/@mrtusarrx1)
 
 
