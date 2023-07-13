@@ -31,7 +31,7 @@ Shader shader = new LinearGradient(0, 0, 40, title.getLineHeight(),
 start, end, Shader.TileMode.MIRROR);
 title.getPaint().setShader(shader);
 ```
-![ShaderName](https://user-images.githubusercontent.com/80063088/127000706-0e9ee02b-e103-4606-9aa6-375e16536277.PNG)
+
 ***
 ### A WARNING/MESSAGE FOR THE USERS
 
