@@ -4,8 +4,7 @@
 * [LGL MOD MENU TEMPLATE](https://github.com/LGLTeam/Android-Mod-Menu)
 ### Everything is in that Repository what you need to know like changing the image and other things that you wanna add etc.
 
-
-https://mrtusarrx1.000webhostapp.com/XRecorder_Edited_13072023_201706.mp4
+# [View LayOut](https://mrtusarrx1.000webhostapp.com/XRecorder_Edited_13072023_201706.mp4)
 * Here is the gui in action i made this gui a bit better then the old one
 [MOD MENU VIDEO](https://mrtusarrx1.000webhostapp.com/XRecorder_Edited_13072023_201706.mp4)
 ***
