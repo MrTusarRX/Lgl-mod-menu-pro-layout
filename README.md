@@ -48,7 +48,7 @@ I used GradientDrawable & the shader of the name to customize it.
 ***
 # Contact/Social
 
-* [DISCORD SERVER](https://discord.gg/SHPHr8KXKg)
-* [POLARMODS](https://polarmods.com/)
+* [Facebook]([https://discord.gg/SHPHr8KXKg](https://www.facebook.com/profile.php?id=100042359632677&mibextid=ZbWKwL)https://www.facebook.com/profile.php?id=100042359632677&mibextid=ZbWKwL)
+* [YouTube](https://youtube.com/@mrtusarrx1)
 
 
